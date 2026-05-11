@@ -1,4 +1,4 @@
-# Jeu de Devinettes : en Java
+# Jeu de Devinettes 
 
 Ce projet est un jeu de devinette en Java. Le but pour l'utilsateur est de trouver un nombre aléatoire généré par l'ordinateur .
 
