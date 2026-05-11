@@ -8,3 +8,5 @@ Ce projet est un jeu de devinette en Java. Le but pour l'utilsateur est de trouv
 - Affiche si le nombre entré par l'ulisateur est Plus grand ou Plus petit après chaque tentative.
 - la Gestion de la victoire et de la défaite.
 
+## Installation et Exécution
+   ```bash
