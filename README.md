@@ -10,3 +10,4 @@ Ce projet est un jeu de devinette en Java. Le but pour l'utilsateur est de trouv
 
 ## Installation et Exécution
    ```bash
+git clone [https://github.com/juniorballo/DEVINETTE.git](https://github.com/juniorballo/DEVINETTE.git)
